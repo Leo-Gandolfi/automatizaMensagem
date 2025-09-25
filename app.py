@@ -9,8 +9,8 @@ import pandas as pd
 import streamlit as st
 from streamlit.components.v1 import html
 
-TOKEN = "EAAcPOPO8bFUBPVtZAAdixWGyCLnoRkxRoGnOe9zfckfT5GeV2ZCZAv2rz3cEXCQpMF9sJY7zKBROLgw3or4hzTrl9Ge3T9YHwEySvv3wVYIDn6ZC8uESgRAIFzdHvoFvJddbxtyUZBAuDmznqd5kaQiBTrdlC4Fg2uxOprT4ZAxqB8rxTxcoopZCeXSZBadorykgMR8OKUQ7PcoH7btc3qDGguA3VvRhG9EyalTjdMeGlQZDZD"
-PHONE_NUMBER_ID = "785793717951295"
+TOKEN = "xxxx"
+PHONE_NUMBER_ID = "xx"
 GRAPH_VERSION = "v22.0"
 
 st.set_page_config(page_title="Envio WhatsApp por Planilha", layout="wide")
